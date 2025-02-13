@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2904328259
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: material/monster
+      Dependencies: {}
+    Info_1:
+      Name: modle/test
+      Dependencies:
+        Dependency_0: texture
+    Info_2:
+      Name: texture
+      Dependencies: {}
+    Info_3:
+      Name: prefabs/bat
+      Dependencies: {}

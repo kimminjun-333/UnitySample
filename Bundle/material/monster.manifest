@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3712420235
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c758bde41975da011a1b372f6923f3fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c758bde41975da011a1b372f6923f3fd
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PolygonBattleRoyale/Materials/PolygonBattleRoyale_02_A.mat
+- Assets/PolygonBattleRoyale/Materials/PolygonBattleRoyale_03_A.mat
+Dependencies: []

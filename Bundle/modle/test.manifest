@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2261893799
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5e1bae8ac1e903582d1cc8a98e3f3d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c3e863c48f2dc4e1c2cd9002f7db620
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c5e1bae8ac1e903582d1cc8a98e3f3d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PolygonBattleRoyale/Prefabs/Characters/Character_70sFemale_01.prefab
+- Assets/PolygonBattleRoyale/Prefabs/Characters/Character_BusinessMale_01.prefab
+Dependencies:
+- C:/Users/KGA/Desktop/UnitySample/./Bundle/texture
